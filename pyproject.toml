@@ -5,7 +5,7 @@ description = "LinkedRite - AI-powered LinkedIn post rewriter SaaS application w
 readme = "docs/readme.md"
 requires-python = ">=3.13"
 dependencies = [
-    "django>=5.2",
+    "django>=6.0.5",
     "django-cors-headers>=4.7.0",
     "djangorestframework>=3.16.0",
     "gunicorn>=23.0.0",
